@@ -1,0 +1,4 @@
+class Hello{
+  int i = 5;
+  System.out.print("Hello");
+  }
