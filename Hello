@@ -1,4 +1,5 @@
 class Hello{
   int i = 5;
+  String hello = "ハロー";
   System.out.print("Hello World");
   }
