@@ -1,0 +1,4 @@
+class gimgim{
+  int gimgim = 12345;
+  System.out.println(gimgim);
+  }
